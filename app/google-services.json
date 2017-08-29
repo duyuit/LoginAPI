@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667049555652",
+    "project_id": "ban-do-177702"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667049555652:android:f914daa0106858fa",
+        "android_client_info": {
+          "package_name": "com.example.vukhachoi.loginapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667049555652-vgmd5c2p1lg22qinjaor2j7ddm8resdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vukhachoi.loginapi",
+            "certificate_hash": "f8693602b81678227cfe5d18ce8d17e1db1bc038"
+          }
+        },
+        {
+          "client_id": "667049555652-c9k1niuvkiqepd6jpf73c9js1hhu9lja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3I8-bt3GUhPjc87vQdG2RA23IKycbw14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
